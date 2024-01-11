@@ -1,0 +1,1 @@
+I implemented many crucial features to OS/161 in C, developed functionality includes multithreading and concurrency, synchronization, processes (in both kernel and user spaces), virtual memory, page tables, and scheduling.
